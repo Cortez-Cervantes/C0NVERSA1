@@ -8,4 +8,4 @@
   <img src="https://github.com/user-attachments/assets/14faf60c-e321-4154-b835-9826f03a3c5a" alt="C0NVERSA1 Portada">
 </p>
 
-<p align="center">La figura muestra la portada de la aplicación C0NVERSA1</p>
+<p align="center">La figura muestra la portada de la aplicación C0NVERSA1 v0.1 </p>
