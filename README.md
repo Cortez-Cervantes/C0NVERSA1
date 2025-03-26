@@ -21,7 +21,6 @@
 
   <li>Abrir el cuadro de diálogo Ejecutar (<kbd>Windows</kbd> + <kbd>R</kbd>), escribir:</li>
   <pre>powershell</pre>
-  <p>Presiona <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Enter</kbd> para ejecutarlo como administrador.</p>
 
   <li>Verificar si Python está instalado (si no, descárgalo desde 
     <a href="https://www.python.org/" target="_blank">python.org</a>):</li>
