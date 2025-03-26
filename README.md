@@ -24,6 +24,8 @@
   <li>Configura la dirección de la terminal para ir a la carpeta descomprimida <b>"C0N1-v0.1"</b> (puedes usar los comandos <code>dir</code> para listar los directorios y <code>cd</code> para cambiar el directorio).</li>
   <li>Crea un entorno virtual para instalar solo los módulos necesarios para ejecutar la aplicación (una vez):</li>
   <pre>python -m venv env_Autogestion</pre>
+  <li>Activa el entorno virtual donde se instalaran los módulos para la aplicación </li>
+  <pre>.\env_Autogestion\Scripts\activate</pre>
   <li>Instala los módulos necesarios:</li>
   <pre>pip install -r requerimientos.txt</pre>
   <li>Ejecuta la aplicación:</li>
