@@ -34,7 +34,7 @@
 
   <li>Activar el entorno virtual:</li>
   <pre>.\env_Autogestion\Scripts\activate</pre>
-  <p><b>⚠ Nota:</b> Si aparece un error de permisos, ejecuta lo siguiente y repite el paso:</p>
+  <p><b>⚠ Nota:</b> Si aparece un error de permisos, ejecuta lo siguiente y repite el paso anterior:</p>
   <pre>Set-ExecutionPolicy Unrestricted -Scope Process</pre>
 
   <li>Instalar las dependencias necesarias (espera unos segundos/minutos):</li>
