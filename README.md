@@ -1,5 +1,5 @@
 <div align="justify">
-  <b>Ambiental Enter</b> desarrollaron <b>C0NVERSA1</b>, una aplicación web para convertir el formato complicado en <i>.pdf</i> generado por el <b><i>"Asistente para la Identificación de las Normas Oficiales Mexicanas de Seguridad y Salud en el Trabajo"</i></b> en un formato manejable de extensión <i>.csv</i>.
+  <b>Ambiental Enter</b> desarrollaron <b>C0NVERSA1</b>, una aplicación web para convertir el formato complicado <i>.pdf</i> generado por el <b><i>"Asistente para la Identificación de las Normas Oficiales Mexicanas de Seguridad y Salud en el Trabajo"</i></b> en un formato manejable de extensión <i>.csv</i>.
 </div>
 
 <br><br>
@@ -17,7 +17,8 @@
 <h3><b>¿Cómo usar la aplicación (Windows)?</b></h3>
 <ul>
   <li>Descargar el archivo <b>"C0N1-v0.1.zip"</b> y descomprimir la carpeta.</li>
-  <li>Abrir el cuadro de diálogo Ejecutar (Windows + R) y ejecutar PowerShell.</li>
+  <li>Abrir el cuadro de diálogo Ejecutar (<kbd>Windows</kbd> + <kbd>R</kbd>) y escribir:</li>
+  <pre> powershell</pre>
   <li>Verificar si tienes Python instalado (si no, instálalo desde <a href="https://www.python.org/" target="_blank">python.org</a>):</li>
   <pre>python --version</pre>
   <li>Configura la dirección de la terminal para ir a la carpeta descomprimida <b>"C0N1-v0.1"</b> (puedes usar los comandos <code>dir</code> para listar los directorios y <code>cd</code> para cambiar el directorio).</li>
