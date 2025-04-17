@@ -1,5 +1,5 @@
 <div align="justify">
-  <b>Ambiental Enter</b> desarrollaron <b>C0NVERSA1</b>, una aplicación web para convertir la plantilla complicada del <b><i>"Asistente para la Identificación de las Normas Oficiales Mexicanas de Seguridad y Salud en el Trabajo"</i></b> en formato <i>.pdf</i> en un formato manejable de extensión <i>.csv</i>.
+  <b>Ambiente Enter</b> desarrollaron <b>C0NVERSA1</b>, una aplicación web para convertir la plantilla complicada del <b><i>"Asistente para la Identificación de las Normas Oficiales Mexicanas de Seguridad y Salud en el Trabajo"</i></b> en formato <i>.pdf</i> en un formato manejable de extensión <i>.csv</i>.
 </div>
 
 <br><br>
