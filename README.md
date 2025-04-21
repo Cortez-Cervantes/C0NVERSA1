@@ -5,7 +5,7 @@
 <br><br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b0c22a28-bdc1-463d-b1d2-e7af2c2fc2f0) alt="C0NVERSA1 Portada" style="max-width: 100%; height: auto;">
+  <img src="https://github.com/user-attachments/assets/b0c22a28-bdc1-463d-b1d2-e7af2c2fc2f0" alt="C0NVERSA1 Portada" style="max-width: 100%; height: auto;">
 </p>
 
 <p align="center">
